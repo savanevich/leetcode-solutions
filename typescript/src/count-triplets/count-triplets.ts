@@ -16,7 +16,7 @@
  * @param b
  * @param c
  */
-function countGoodTriplets(arr: number[], a: number, b: number, c: number): number {
+export function countGoodTriplets(arr: number[], a: number, b: number, c: number): number {
   const arrLength = arr.length;
   let resultedNumber = 0;
 
