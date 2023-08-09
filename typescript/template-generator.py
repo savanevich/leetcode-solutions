@@ -28,7 +28,7 @@ test("Expected", () => {{
 
 def create_folder_and_ts_files(template_name):
     try:
-        folder_path = f"typescript/src/{template_name}"
+        folder_path = f"src/{template_name}"
         os.mkdir(folder_path)  # Create the folder
 
         filename = f"{template_name}.ts"
