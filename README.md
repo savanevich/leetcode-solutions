@@ -12,4 +12,6 @@
 | 8 | Easy | TypeScript | 2704. To Be Or Not To Be | Write a function expect that helps developers test their code. It should take in any value val and return an object with the following two functions. |
 | 9 | Easy | Typescript | 2648. Generate Fibonacci Sequence | Write a generator function that returns a generator object which yields the fibonacci sequence. |
 | 10 | Easy | Typescript | 2724. Sort By | Given an array arr and a function fn, return a sorted array sortedArr. |
+| 11 | Easy | Typescript | 2715. Timeout Cancellation | Given a function fn, an array of arguments args, and a timeout t in milliseconds, return a cancel function cancelFn. |
+| 12 | Medium | Typescript | 2694. Event Emitter | Design an EventEmitter class. |
 |  |  |  |  |  |
