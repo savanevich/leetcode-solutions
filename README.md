@@ -10,4 +10,6 @@
 | 6 | Medium | Typescript | 2625. Flatten Deeply Nested Array | Given a multi-dimensional array arr and a depth n, return a flattened version of that array. |
 | 7 | Easy | Typescript | 2666. Allow One Function Call | Given a function fn, return a new function that is identical to the original function except that it ensures fn is called at most once. |
 | 8 | Easy | TypeScript | 2704. To Be Or Not To Be | Write a function expect that helps developers test their code. It should take in any value val and return an object with the following two functions. |
+| 9 | Easy | Typescript | 2648. Generate Fibonacci Sequence | Write a generator function that returns a generator object which yields the fibonacci sequence. |
+| 10 | Easy | Typescript | 2724. Sort By | Given an array arr and a function fn, return a sorted array sortedArr. |
 |  |  |  |  |  |
